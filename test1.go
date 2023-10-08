@@ -11,3 +11,7 @@ fmt.Println("hello")
 
 
 }
+
+func add (){
+fmt.Println("Printing from Addition function")
+}
