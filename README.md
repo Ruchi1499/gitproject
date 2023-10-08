@@ -1,3 +1,3 @@
 # gitproject
 
-Adding this project for github practice.
+Adding this project for github pull practice.
